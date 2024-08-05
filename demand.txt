@@ -1,0 +1,6 @@
+Goal: IRAK4(kinase)에 대해서 ligand들의 IC50 예측
+
+Demand: 
+1. Chemprop->pretrained model 이용
+2. GALD docking 후 interacting residue feature 추가
+3. dG value feature 추가

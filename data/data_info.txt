@@ -1,0 +1,15 @@
+train.csv [파일]
+ChEMBL IRAK4 IC50에 대한 학습용 데이터 1,952종
+Smiles : 분자구조 데이터
+IC50_nM : 예측 Target
+plC50 : IC50_nM과 동일하지만, 단위가 다름
+
+
+test.csv [파일]
+ID : 고유 ID
+Smiles : 분자구조 데이터
+
+
+sample_submission.csv [파일] - 제출 양식
+ID : 고유 ID
+IC50_nM : 예측한 IC50 (nM단위)
